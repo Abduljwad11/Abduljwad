@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abduljawad Al-Fifi
-I am interested in the field of **networks and network security**, and I am actively working on developing my technical skills and building practical experience in **network design** and **protecting networks from security threats**.\
+I am interested in the field of **networks and network security**, and I am actively working on developing my technical skills and building practical experience in **network design** and **protecting networks from security threats**.
 
 ## 👩‍💻 About Me
 
